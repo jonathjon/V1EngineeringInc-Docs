@@ -540,8 +540,7 @@ Start the assembly with the YZ plate.
  * Again, be sure to pre-thread the nut on to the screw to loosen up the lock nut before assembly. More than once can help as well.
  * Insert the "hidden" M5 Nut. This picture shows how to make sure it is aligned if you want to add a drop of glue to hold the nut.
  * Snug up the wheel assembly with the M5, if there is any resistance make certain it is not cross threaded. 
- * Make sure the outer faces of both parts are flush.
- * Sloppy wheel alignment can lead to the whole beam not being very square to the table If your finished build is sitting crooked this is one place to check.
+
 
 ![!LR4 yz assm](../img/lr4/yzw8b.jpg){: loading=lazy width="600"}
 
